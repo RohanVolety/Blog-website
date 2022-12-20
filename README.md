@@ -1,3 +1,12 @@
+A personal website for writing and publishing blogs. Users can login and publish their blogs.They can also read blogs written by others.
+Reactjs was used for the frontend, and Firebase was used for authentication and database storage.
+
+
+<img width="523" alt="blog" src="https://user-images.githubusercontent.com/91217295/208657212-f9de2365-5a38-41ec-94a6-79da6c335d52.PNG">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
